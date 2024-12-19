@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey%2C+there+%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+Profile!;I+am+Bhoomi+Garg." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;I+am+Bhoomi+Garg." />
 </h1>
 
 <h3 align="center">Crafting Code, Solving Problems, and Designing Impactful Web Experiences!</h3>
