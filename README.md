@@ -66,7 +66,5 @@ I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply pas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomi3122&theme=light&hide_border=true" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </p>
