@@ -4,8 +4,9 @@
 
 <h3 align="center">Crafting Code, Solving Problems, and Designing Impactful Web Experiences!</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bhoomi3122&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomi3122" />
+<h3 align="center">🏆 Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-bg=true&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -57,12 +58,9 @@ I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply pas
 
 ---
 
-<h3 align="center">🏆 Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-bg=true&column=4" alt="GitHub Trophies" />
-</p>
 
----
+
+
 
 <h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
@@ -71,16 +69,4 @@ I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply pas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomi3122&theme=light&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
-</p>
-
-
----
-
-<h3 align="center">📊 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomi3122&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&theme=radical" alt="Top Languages" />
 </p>
