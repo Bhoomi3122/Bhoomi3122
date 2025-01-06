@@ -6,7 +6,7 @@
 
 <h3 align="center">🏆 Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-bg=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
