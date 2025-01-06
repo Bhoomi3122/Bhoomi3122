@@ -4,6 +4,8 @@
 
 <h3 align="center">Crafting Code, Solving Problems, and Designing Impactful Web Experiences!</h3>
 
+---
+
 <h3 align="center">🏆 Trophies:</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
