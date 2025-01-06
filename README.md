@@ -4,14 +4,7 @@
 
 <h3 align="center">Crafting Code, Solving Problems, and Designing Impactful Web Experiences!</h3>
 
----
 
-<h3 align="center">🏆 Trophies:</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -25,6 +18,17 @@ I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply pas
 - 🌐 Build dynamic, user-friendly web applications using **React, Node.js, MongoDB, and Bootstrap.**  
 - 🎯 Solve challenging **DSA problems** to hone my logic and analytical skills.  
 - 📖 Stay curious and keep learning new tools, frameworks, and methodologies.  
+
+---
+
+
+
+<h3 align="center">🏆 Trophies:</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -46,7 +50,7 @@ I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply pas
 
 ---
 
-<h3 align="center">🛠️ My Tech Arsenal:</h3>
+<h3 align="center">🛠️ My Tech Stack:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
