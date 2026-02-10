@@ -1,78 +1,82 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;I+am+Bhoomi+Garg." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=0A66C2&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile;Bhoomi+Garg+%7C+Software+Engineering+Enthusiast" />
 </h1>
 
-<h3 align="center">Crafting Code, Solving Problems, and Designing Impactful Web Experiences!</h3>
-
-
-
----
-
-🌟 **Who am I?**  
-I’m a **Computer Science and Design (CSD)** student at **MITS'DU**, deeply passionate about technology. I’m currently mastering **web development** and **problem-solving** while exploring other emerging tech skills to broaden my horizons. My mission is to merge creativity with logic to build solutions that make a difference.
+<h3 align="center">
+  Building reliable software, solving complex problems, and learning engineering at scale.
+</h3>
 
 ---
 
-✨ **What I Do:**  
-- 💻 Write efficient and elegant code in **C++, JavaScript, and Python.**  
-- 🌐 Build dynamic, user-friendly web applications using **React, Node.js, MongoDB, and Bootstrap.**  
-- 🎯 Solve challenging **DSA problems** to hone my logic and analytical skills.  
-- 📖 Stay curious and keep learning new tools, frameworks, and methodologies.  
+## About Me
+
+I am a **final-year Computer Science and Design student** currently interning at **EPAM Systems** as an **Application Analyst**. I am actively building strong foundations in **software engineering**, with a primary focus on **Java, C++, Data Structures & Algorithms**, and **backend development**.
+
+Through my internship, I am gaining hands-on exposure to **enterprise-grade systems**, **production debugging**, and **industry-standard engineering practices**. Alongside this, I am learning **Spring Boot and backend architecture in depth**, with the goal of growing into a **strong Software Development Engineer (SDE)**.
 
 ---
 
+## What I Work On
 
+- Designing and understanding **scalable backend systems**
+- Writing clean, maintainable code using **Java and C++**
+- Applying **OOP, SOLID principles, and design patterns**
+- Solving **DSA problems** to strengthen problem-solving skills
+- Working across the **Software Development Life Cycle (SDLC)**
+- Using **Git** for version control and collaborative development
 
-<h3 align="center">🏆 Trophies:</h3>
+---
+
+## GitHub Highlights
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=15&column=5&title=Commit,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h3 align="center">📬 Let's Connect!</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/bhoomi-garg-244b52219/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/bhoomi_3122/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/gargbhow8ef/" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="mailto:gargbhoomi01@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## Technical Skills
+
+**Programming & Core CS**
+- Java, C++, Data Structures & Algorithms, Object-Oriented Programming
+
+**Backend & Web**
+- Spring Boot (learning in depth), RESTful APIs, Node.js, Express.js
+
+**Databases**
+- MySQL, MongoDB, SQL
+
+**Frontend (working knowledge)**
+- JavaScript, React.js, HTML, CSS
+
+**Tools & Practices**
+- Git, GitHub, Debugging, SDLC, Design Principles & Patterns
 
 ---
 
-<h3 align="center">🛠️ My Tech Stack:</h3>
+## GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-
-
-
-
-<h3 align="center">📊 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&hide_border=true&theme=light&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&hide_border=true&theme=light" alt="Top Languages" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhoomi-garg-244b52219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/bhoomi_3122/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/gargbhow8ef/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="mailto:gargbhoomi01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
