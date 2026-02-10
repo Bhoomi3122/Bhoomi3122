@@ -29,10 +29,14 @@ My long-term goal is to grow into a strong **Software Development Engineer (SDE)
 
 ---
 
-## GitHub Trophies  
+## GitHub Activity Overview
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhoomi3122&theme=flat&no-frame=true&margin-w=10&column=4" />
+  <img src="https://streak-stats.demolab.com?user=bhoomi3122&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
+
 
 ---
 
