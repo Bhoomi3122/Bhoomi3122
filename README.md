@@ -37,18 +37,6 @@ My long-term goal is to grow into a strong **Software Development Engineer (SDE)
   <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
-
----
-
-## GitHub Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhoomi3122&theme=default&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&hide_border=true&theme=default" />
-</p>
-
 ---
 
 ## Technical Skills
