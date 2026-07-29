@@ -1,45 +1,46 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Bhoomi+Garg+%7C+Software+Engineer;Java+Backend+Developer+%7C+Spring+Boot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Bhoomi+Garg+%7C+Software+Engineer;Java+Backend+Developer+%7C+Spring+Boot" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-Computer Science & Design Graduate • Java Backend Developer • Spring Boot • Problem Solver
+Software Engineer • Java Backend Developer • Spring Boot • Backend Systems
 </h3>
 
 ---
 
 # 👋 About Me
 
-Hi, I'm **Bhoomi Garg**, a Computer Science & Design graduate passionate about building scalable backend applications and solving complex engineering problems.
+Hi, I'm **Bhoomi Garg**, a Software Engineer passionate about building scalable backend applications using **Java** and **Spring Boot**.
 
 I enjoy designing clean, modular software with a strong emphasis on maintainability, performance, and software engineering best practices.
 
-My primary interests include:
+## Areas of Interest
 
 - Java Backend Development
 - Spring Boot
 - REST APIs
 - Software Architecture
+- System Design
 - Design Patterns & SOLID Principles
-- Data Structures & Algorithms
-
-I'm currently looking for opportunities as a **Software Engineer** or **Java Backend Developer**, where I can contribute to building reliable, scalable software while continuously growing as an engineer.
 
 ---
 
-# 🚀 Currently Building
+# ⭐ Featured Projects
 
-### Pluggable Cache Engine
-A reusable in-memory cache library built using Java with support for pluggable eviction strategies.
+## Pluggable Cache Engine
 
-**Tech Stack**
+A reusable, pluggable in-memory cache library built with Java, featuring interchangeable eviction strategies and a modular architecture.
+
+### Tech Stack
+
 - Java
 - Spring Boot
 - React
 - Strategy Pattern
 - SOLID Principles
 
-Current Features:
+### Current Features
+
 - Generic Cache Interface
 - LRU Cache
 - LFU Cache
@@ -48,11 +49,11 @@ Current Features:
 
 ---
 
-### Specify – API Collaboration Platform
+## Specify – API Collaboration Platform
 
 A collaborative API management platform inspired by modern API tools.
 
-Features include:
+### Features
 
 - Workspace Collaboration
 - API Collections
@@ -61,7 +62,7 @@ Features include:
 - Activity Tracking
 - Environment Management
 
-**Tech Stack**
+### Tech Stack
 
 - Spring Boot
 - React
@@ -69,19 +70,22 @@ Features include:
 
 ---
 
-# 💻 Technical Skills
+# 🛠 Technical Skills
 
 ### Languages
+
 - Java
 - C++
 
 ### Backend
-- Spring
+
 - Spring Boot
+- Spring
 - Spring Data JPA
 - REST APIs
 
 ### Core Java
+
 - Object-Oriented Programming
 - Collections Framework
 - Streams API
@@ -89,10 +93,12 @@ Features include:
 - SOLID Principles
 - Design Patterns
 
-### Databases
+### Database
+
 - MySQL
 
-### DevOps & Tools
+### Tools & DevOps
+
 - Git
 - Maven
 - JUnit
@@ -102,62 +108,52 @@ Features include:
 - CI/CD
 
 ### Frontend
+
 - React.js
 - HTML5
 - CSS3
 
 ---
 
-# 📈 GitHub Statistics
+# 🏅 Highlights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhoomi3122&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi3122&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi3122&layout=compact&hide_border=true" />
-</p>
-
----
-
-# 🏆 Highlights
-
-- 🥇 Top 100 – Myntra WeForShe Hackathon 2025
-- 🥈 Flipkart GRiD 7.0 National Semi-Finalist
-- 🥉 Top 0.13% – Naukri Campus Young Turks'25
-- 🎯 Competitive Programming Coordinator at MITS
-- 🌟 Campus Ambassador – GirlScript Summer of Code
+- Top 100 – Myntra WeForShe Hackathon 2025
+- Flipkart GRiD 7.0 National Semi-Finalist
+- Top 0.13% – Naukri Campus Young Turks'25
+- Lead – GeeksforGeeks Student Chapter, MITS
+- Competitive Programming Coordinator – MITS
+- Campus Ambassador – GirlScript Summer of Code 2025
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
-- Advanced Spring Boot
-- Low-Level Design
 - System Design
 - Distributed Systems
+- Low-Level Design
+- Advanced Spring Boot
 - Scalable Backend Architecture
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/bhoomi-garg-244b52219/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/bhoomi_3122/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/bhoomi3122">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/bhoomi3122" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:gargbhoomi01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
